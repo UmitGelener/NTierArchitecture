@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.deps.json
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.pdb
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.AssemblyInfo.cs
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\refint\Udemy.TodoAppNTier.Entities.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.pdb
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Entities.dll
