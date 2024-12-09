@@ -5988,19 +5988,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "C:\\Users\\UMIT GELENER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj",
+      "projectUniqueName": "C:\\Users\\UMIT GELENER\\source\\repos\\NTierArchitecture\\Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj",
       "projectName": "Udemy.TodoAppNTier.Business",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\obj\\",
+      "projectPath": "C:\\Users\\UMIT GELENER\\source\\repos\\NTierArchitecture\\Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj",
+      "packagesPath": "C:\\Users\\UMIT GELENER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\UMIT GELENER\\source\\repos\\NTierArchitecture\\Udemy.TodoAppNTier.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\UMIT GELENER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6014,11 +6014,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\pc\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.DataAccess\\Udemy.TodoAppNTier.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\pc\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.DataAccess\\Udemy.TodoAppNTier.DataAccess.csproj"
+            "C:\\Users\\UMIT GELENER\\source\\repos\\NTierArchitecture\\Udemy.TodoAppNTier.DataAccess\\Udemy.TodoAppNTier.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\UMIT GELENER\\source\\repos\\NTierArchitecture\\Udemy.TodoAppNTier.DataAccess\\Udemy.TodoAppNTier.DataAccess.csproj"
             },
-            "C:\\Users\\pc\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj": {
-              "projectPath": "C:\\Users\\pc\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj"
+            "C:\\Users\\UMIT GELENER\\source\\repos\\NTierArchitecture\\Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj": {
+              "projectPath": "C:\\Users\\UMIT GELENER\\source\\repos\\NTierArchitecture\\Udemy.TodoAppNTier.Dtos\\Udemy.TodoAppNTier.Dtos.csproj"
             }
           }
         }
@@ -6027,11 +6027,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -6053,7 +6048,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
