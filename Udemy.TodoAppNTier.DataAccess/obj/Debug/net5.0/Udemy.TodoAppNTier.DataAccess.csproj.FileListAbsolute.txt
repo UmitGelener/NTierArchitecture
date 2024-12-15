@@ -16,3 +16,4 @@ C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\De
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.pdb
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.genruntimeconfig.cache
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.DataAccess.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.sourcelink.json

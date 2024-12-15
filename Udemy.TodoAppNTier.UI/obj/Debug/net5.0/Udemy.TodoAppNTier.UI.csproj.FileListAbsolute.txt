@@ -62,3 +62,6 @@ C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\obj\Debug\net5
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\obj\Debug\net5.0\Udemy.TodoAppNTier.UI.pdb
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\obj\Debug\net5.0\Udemy.TodoAppNTier.UI.genruntimeconfig.cache
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.UI.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\obj\Debug\net5.0\Udemy.TodoAppNTier.UI.sourcelink.json

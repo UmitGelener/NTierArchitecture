@@ -9,3 +9,4 @@ C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debu
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\refint\Udemy.TodoAppNTier.Entities.dll
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.pdb
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Entities.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.sourcelink.json
