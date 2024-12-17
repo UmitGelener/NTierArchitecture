@@ -11,6 +11,6 @@ namespace Udemy.TodoAppNTier.DataAccess.UnitofWork
 	{
 		IRepository<T> GetRepository<T>() where T : class, new();
 
-		Task SaveChanges();
+		Task SaveChangesAsync();
 	}
 }
