@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "13utUHscqj+Kiqs/e7so50WZF8fKHW0aC2U4yXKGWFjCa5RHn7qdRVFBAuTNMQb5iEbLRDTyE/Vq1BYwp4QJqg==",
+  "dgSpecHash": "feyxAJ87k737QCGsPBshjzDw645NRGnhLtK2XMVjb2YQc+M+m+c4yaiko63S4QqPTwmt2QTiALR7c2gR1HS8qQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Entities\\Udemy.TodoAppNTier.Entities.csproj",
+  "projectFilePath": "C:\\Users\\UMIT GELENER\\source\\repos\\NTierArchitecture\\Udemy.TodoAppNTier.Entities\\Udemy.TodoAppNTier.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

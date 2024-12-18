@@ -10,3 +10,15 @@ C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\ne
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\Udemy.TodoAppNTier.Dtos.pdb
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Dtos.dll
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\Udemy.TodoAppNTier.Dtos.sourcelink.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\bin\Debug\net5.0\Udemy.TodoAppNTier.Dtos.deps.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\bin\Debug\net5.0\Udemy.TodoAppNTier.Dtos.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\bin\Debug\net5.0\Udemy.TodoAppNTier.Dtos.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\Udemy.TodoAppNTier.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\Udemy.TodoAppNTier.Dtos.AssemblyInfoInputs.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\Udemy.TodoAppNTier.Dtos.AssemblyInfo.cs
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\Udemy.TodoAppNTier.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\Udemy.TodoAppNTier.Dtos.sourcelink.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\Udemy.TodoAppNTier.Dtos.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\refint\Udemy.TodoAppNTier.Dtos.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\Udemy.TodoAppNTier.Dtos.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Dtos\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Dtos.dll

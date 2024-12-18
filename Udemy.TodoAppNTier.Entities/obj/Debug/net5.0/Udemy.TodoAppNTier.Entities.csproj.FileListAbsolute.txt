@@ -10,3 +10,15 @@ C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debu
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.pdb
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Entities.dll
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.sourcelink.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.deps.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.AssemblyInfoInputs.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.AssemblyInfo.cs
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.csproj.CoreCompileInputs.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.sourcelink.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\refint\Udemy.TodoAppNTier.Entities.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\Udemy.TodoAppNTier.Entities.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Entities\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Entities.dll

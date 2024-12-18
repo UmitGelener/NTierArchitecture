@@ -18,3 +18,23 @@ C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debu
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.pdb
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Business.dll
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.sourcelink.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.TodoAppNTier.Business.deps.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.TodoAppNTier.Business.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.TodoAppNTier.Business.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.TodoAppNTier.Dtos.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.TodoAppNTier.Dtos.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.csproj.AssemblyReference.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.AssemblyInfoInputs.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.AssemblyInfo.cs
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.csproj.CoreCompileInputs.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.sourcelink.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.csproj.CopyComplete
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\refint\Udemy.TodoAppNTier.Business.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Business.dll

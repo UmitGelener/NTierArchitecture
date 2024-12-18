@@ -17,3 +17,22 @@ C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\De
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.genruntimeconfig.cache
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.DataAccess.dll
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.sourcelink.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\bin\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.deps.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\bin\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.runtimeconfig.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\bin\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.runtimeconfig.dev.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\bin\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\bin\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\bin\Debug\net5.0\Udemy.TodoAppNTier.Entities.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.csproj.AssemblyReference.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.AssemblyInfoInputs.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.AssemblyInfo.cs
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.sourcelink.json
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.csproj.CopyComplete
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\refint\Udemy.TodoAppNTier.DataAccess.dll
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.pdb
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\Udemy.TodoAppNTier.DataAccess.genruntimeconfig.cache
+C:\Users\UMIT GELENER\source\repos\NTierArchitecture\Udemy.TodoAppNTier.DataAccess\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.DataAccess.dll
