@@ -1,1 +1,5 @@
 .vs/
+/Udemy.TodoAppNTier.Business/obj/Debug/net5.0/Udemy.TodoAppNTier.Business.csproj.CopyComplete
+/Udemy.TodoAppNTier.DataAccess/obj/Debug/net5.0/Udemy.TodoAppNTier.DataAccess.csproj.CopyComplete
+/Udemy.TodoAppNTier.Entities/obj/Debug/net5.0/Udemy.TodoAppNTier.Entities.csproj.BuildWithSkipAnalyzers
+/Udemy.TodoAppNTier.UI/obj/Debug/net5.0/Udemy.TodoAppNTier.UI.csproj.CopyComplete
