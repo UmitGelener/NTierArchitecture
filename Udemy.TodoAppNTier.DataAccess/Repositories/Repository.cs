@@ -7,10 +7,11 @@ using System.Text;
 using System.Threading.Tasks;
 using Udemy.TodoAppNTier.DataAccess.Contexts;
 using Udemy.TodoAppNTier.DataAccess.Interfaces;
+using Udemy.TodoAppNTier.Entities;
 
 namespace Udemy.TodoAppNTier.DataAccess.Repositories
 {
-	public class Repository<T> : IRepository<T> where T: class , new()
+	public class Repository<T> : IRepository<T> where T: BaseEntity
 	{
 		private readonly TodoContext _context;
 
@@ -48,14 +49,16 @@ namespace Udemy.TodoAppNTier.DataAccess.Repositories
 			return _context.Set<T>().AsQueryable();
 		}
 
-		void IRepository<T>.Remove(T entity)
+		public void Remove(object id)
 		{
-			_context.Set<T>().Remove(entity);
+			var deletedEntity = _context.Set<T>().Find(id);
+			_context.Set<T>().Remove(deletedEntity);
 		}
 
-		void IRepository<T>.Update(T entity)
+		public void Update(T entity)
 		{
-			_context.Set<T>().Update(entity);
+			var updateEntity = _context.Set<T>().Find(entity.Id);
+			_context.Entry(updateEntity).CurrentValues.SetValues(entity);
 		}
 	}
 }

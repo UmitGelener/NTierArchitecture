@@ -4,10 +4,11 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using Udemy.TodoAppNTier.Entities;
 
 namespace Udemy.TodoAppNTier.DataAccess.Interfaces
 {
-	public interface IRepository <T> where T: class, new() 
+	public interface IRepository <T> where T: BaseEntity
 	{
 		Task<List<T>> GetAll();
 
@@ -19,7 +20,7 @@ namespace Udemy.TodoAppNTier.DataAccess.Interfaces
 
 		void Update(T entity);
 
-		void Remove(T entity);
+		void Remove(object id);
 
 		IQueryable<T> GetQuery();
 	}

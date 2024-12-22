@@ -13,9 +13,9 @@ namespace Udemy.TodoAppNTier.Business.Interfaces
 
 		Task Create(WorkCreateDto dto);
 
-		Task<WorkListDto> GetById(object id);
+		Task<WorkListDto> GetById(int id);
 
-		Task Remove(object id);
+		Task Remove(int id);
 
 		Task Update(WorkUpdateDto dto);
 	}
