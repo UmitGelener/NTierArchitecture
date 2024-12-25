@@ -1,5 +1,4 @@
-﻿using AutoMapper;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using Udemy.TodoAppNTier.Business.Interfaces;
 using Udemy.TodoAppNTier.Dtos.WorkDtos;
@@ -9,11 +8,9 @@ namespace Udemy.TodoAppNTier.UI.Controllers
 	public class HomeController : Controller
 	{
 		private readonly IWorkService _workService;
-		private readonly IMapper _mapper;
-		public HomeController(IWorkService workService, IMapper mapper)
+		public HomeController(IWorkService workService)
 		{
 			_workService = workService;
-			_mapper = mapper;
 		}
 
 		public async Task<IActionResult> Index()
@@ -39,9 +36,7 @@ namespace Udemy.TodoAppNTier.UI.Controllers
 
 		public async Task<IActionResult> Update(int id)
 		{
-			var listDto = await _workService.GetById(id);
-
-			var updateDto = _mapper.Map<WorkUpdateDto>(listDto);
+			var updateDto = await _workService.GetById<WorkUpdateDto>(id);	
 
 			return View(updateDto);
 		}

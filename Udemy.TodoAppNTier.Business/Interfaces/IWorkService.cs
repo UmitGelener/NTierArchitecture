@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Udemy.TodoAppNTier.Dtos.WorkDtos;
 
@@ -13,7 +10,7 @@ namespace Udemy.TodoAppNTier.Business.Interfaces
 
 		Task Create(WorkCreateDto dto);
 
-		Task<WorkListDto> GetById(int id);
+		Task<IDto> GetById<IDto>(int id);
 
 		Task Remove(int id);
 

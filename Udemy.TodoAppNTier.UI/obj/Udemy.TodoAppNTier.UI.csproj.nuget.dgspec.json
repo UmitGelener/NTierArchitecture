@@ -55,6 +55,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[10.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.2.3, )"
             }
           },
           "imports": [

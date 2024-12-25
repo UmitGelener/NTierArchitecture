@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Cr4/ZsVDXD31sfMMK/CiIbzvkqg0l6rRmc1p5QUZRsXf1VIJfG4IVmwEaF6wk054uEGSU7rO4uzpCSIJcMvdww==",
+  "dgSpecHash": "SK6x5gmDsb06m+MyUFvmyBAfztj7tasCFjVNPOrcVMvQCWFPaz7R25I1pHcBgxxrShJTliH2Nf86QxlSnc9AFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc\\source\\repos\\Udemy.TodoAppNTier\\Udemy.TodoAppNTier.Business\\Udemy.TodoAppNTier.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.2.3\\fluentvalidation.dependencyinjectionextensions.10.2.3.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
