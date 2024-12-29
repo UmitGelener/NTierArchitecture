@@ -53,15 +53,20 @@ namespace Udemy.TodoAppNTier.Business.Services
 
 		public async Task Remove(int id)
 		{
-			_uow.GetRepository<Work>().Remove(id);
-			await _uow.SaveChangesAsync();
+			var entity = await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id);
+			if (entity != null)
+			{
+				_uow.GetRepository<Work>().Remove(entity);
+				await _uow.SaveChangesAsync();
+			}
 		}
 
 		public async Task Update(WorkUpdateDto dto)
 		{
 			if (_updatevalidator.Validate(dto).IsValid)
 			{
-				_uow.GetRepository<Work>().Update(_mapper.Map<Work>(dto));
+				var updatedEntity = await _uow.GetRepository<Work>().Find(dto.Id);
+				_uow.GetRepository<Work>().Update(_mapper.Map<Work>(dto), updatedEntity);
 				await _uow.SaveChangesAsync();
 			}
 		}

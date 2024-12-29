@@ -23,33 +23,25 @@ namespace Udemy.TodoAppNTier.UI.Controllers
 		{
 			return View(new WorkCreateDto());
 		}
+
 		[HttpPost]
 		public async Task<IActionResult> Create(WorkCreateDto dto)
 		{
-			if (ModelState.IsValid)
-			{
-				await _workService.Create(dto);
-				return RedirectToAction("Index");
-			}
-			return View(dto);
+			await _workService.Create(dto);
+			return RedirectToAction("Index");
 		}
 
 		public async Task<IActionResult> Update(int id)
 		{
-			var updateDto = await _workService.GetById<WorkUpdateDto>(id);	
-
+			var updateDto = await _workService.GetById<WorkUpdateDto>(id);
 			return View(updateDto);
 		}
 
 		[HttpPost]
 		public async Task<IActionResult> Update(WorkUpdateDto dto)
 		{
-			if (ModelState.IsValid)
-			{
-				await _workService.Update(dto);
-				return RedirectToAction("Index");
-			}
-			return View(dto);
+			await _workService.Update(dto);
+			return RedirectToAction("Index");
 		}
 
 		public async Task<IActionResult> Remove(int id)
@@ -57,6 +49,5 @@ namespace Udemy.TodoAppNTier.UI.Controllers
 			await _workService.Remove(id);
 			return RedirectToAction("Index");
 		}
-
 	}
 }
