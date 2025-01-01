@@ -1328,14 +1328,29 @@
           "AutoMapper": "10.1.0",
           "FluentValidation": "10.2.3",
           "FluentValidation.DependencyInjectionExtensions": "10.2.3",
+          "Udemy.ToDoAppNTier.Common": "1.0.0",
           "Udemy.TodoAppNTier.DataAccess": "1.0.0",
           "Udemy.TodoAppNTier.Dtos": "1.0.0"
         },
         "runtime": {
-          "Udemy.TodoAppNTier.Business.dll": {}
+          "Udemy.TodoAppNTier.Business.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Udemy.TodoAppNTier.Business.dll": {}
+        }
+      },
+      "Udemy.ToDoAppNTier.Common/1.0.0": {
+        "runtime": {
+          "Udemy.ToDoAppNTier.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "Udemy.ToDoAppNTier.Common.dll": {}
         }
       },
       "Udemy.TodoAppNTier.DataAccess/1.0.0": {
@@ -1345,7 +1360,10 @@
           "Udemy.TodoAppNTier.Entities": "1.0.0"
         },
         "runtime": {
-          "Udemy.TodoAppNTier.DataAccess.dll": {}
+          "Udemy.TodoAppNTier.DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Udemy.TodoAppNTier.DataAccess.dll": {}
@@ -1353,7 +1371,10 @@
       },
       "Udemy.TodoAppNTier.Dtos/1.0.0": {
         "runtime": {
-          "Udemy.TodoAppNTier.Dtos.dll": {}
+          "Udemy.TodoAppNTier.Dtos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Udemy.TodoAppNTier.Dtos.dll": {}
@@ -1361,7 +1382,10 @@
       },
       "Udemy.TodoAppNTier.Entities/1.0.0": {
         "runtime": {
-          "Udemy.TodoAppNTier.Entities.dll": {}
+          "Udemy.TodoAppNTier.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Udemy.TodoAppNTier.Entities.dll": {}
@@ -3767,6 +3791,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Udemy.TodoAppNTier.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Udemy.ToDoAppNTier.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

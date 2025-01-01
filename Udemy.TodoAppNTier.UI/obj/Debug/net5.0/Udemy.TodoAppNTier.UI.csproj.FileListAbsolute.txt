@@ -83,3 +83,6 @@ C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\obj\Debug\net5
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\bin\Debug\net5.0\Udemy.ToDoAppNTier.Common.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\bin\Debug\net5.0\Udemy.ToDoAppNTier.Common.pdb
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.UI\obj\Debug\net5.0\Razor\Views\Home\NotFound.cshtml.g.cs

@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Udemy.TodoAppNTier.Business.Extensions;
 using Udemy.TodoAppNTier.Business.Interfaces;
 using Udemy.TodoAppNTier.Business.ValidationRules;
 using Udemy.TodoAppNTier.DataAccess.Contexts;
@@ -13,6 +14,7 @@ using Udemy.TodoAppNTier.DataAccess.UnitofWork;
 using Udemy.TodoAppNTier.Dtos.Interfaces;
 using Udemy.TodoAppNTier.Dtos.WorkDtos;
 using Udemy.TodoAppNTier.Entities.Domains;
+using Udemy.ToDoAppNTier.Common.ResponseObject;
 
 namespace Udemy.TodoAppNTier.Business.Services
 {
@@ -22,7 +24,7 @@ namespace Udemy.TodoAppNTier.Business.Services
 		private readonly IMapper _mapper;
 		private readonly IValidator<WorkCreateDto> _createvalidator;
 		private readonly IValidator<WorkUpdateDto> _updatevalidator;
-		//private readonly IValidator<WorkListDto> _listvalidator;
+
 		public WorkService(IUow uow, IMapper mapper, IValidator<WorkCreateDto> createvalidator, IValidator<WorkUpdateDto> updatevalidator)
 		{
 			_uow = uow;
@@ -31,43 +33,66 @@ namespace Udemy.TodoAppNTier.Business.Services
 			_updatevalidator = updatevalidator;
 		}
 
-		public async Task Create(WorkCreateDto dto)
+		public async Task<IResponse<WorkCreateDto>> Create(WorkCreateDto dto)
 		{
-			if (_createvalidator.Validate(dto).IsValid)
+
+			var validationResult = _createvalidator.Validate(dto);
+			if (validationResult.IsValid)
 			{
 				await _uow.GetRepository<Work>().Create(_mapper.Map<Work>(dto));
 				await _uow.SaveChangesAsync();
+				return new Response<WorkCreateDto>(ResponseType.Success, dto);
+			}
+			else
+			{
+				return new Response<WorkCreateDto>(ResponseType.ValidationError, dto, validationResult.ConvertToCustomValidationError());
 			}
 		}
 
-		public async Task<List<WorkListDto>> GetAll()
+		public async Task<IResponse<List<WorkListDto>>> GetAll()
 		{
-			return _mapper.Map<List<WorkListDto>>(await _uow.GetRepository<Work>().GetAll());
+			var data = _mapper.Map<List<WorkListDto>>(await _uow.GetRepository<Work>().GetAll());
+			return new Response<List<WorkListDto>>(ResponseType.Success, data);
+			
 		}
 
-		public async Task<IDto> GetById<IDto>(int id)
+		public async Task<IResponse<IDto>> GetById<IDto>(int id)
 		{
-			var data = await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id);
-			return _mapper.Map<IDto>(data);
+			var data = _mapper.Map<IDto>(await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id));
+			if (data == null)
+				return new Response<IDto>(ResponseType.NotFound, $"{id} değeri bulunamadı.");
+			return new Response<IDto>(ResponseType.Success, data);
 		}
 
-		public async Task Remove(int id)
+		public async Task<IResponse> Remove(int id)
 		{
 			var entity = await _uow.GetRepository<Work>().GetByFilter(x => x.Id == id);
 			if (entity != null)
 			{
 				_uow.GetRepository<Work>().Remove(entity);
 				await _uow.SaveChangesAsync();
+				return new Response(ResponseType.Success);
 			}
+			return new Response(ResponseType.NotFound, $"{id} değeri bulunamadı.");
 		}
 
-		public async Task Update(WorkUpdateDto dto)
+		public async Task<IResponse<WorkUpdateDto>> Update(WorkUpdateDto dto)
 		{
-			if (_updatevalidator.Validate(dto).IsValid)
+			var result = _updatevalidator.Validate(dto);
+			if (result.IsValid)
 			{
 				var updatedEntity = await _uow.GetRepository<Work>().Find(dto.Id);
-				_uow.GetRepository<Work>().Update(_mapper.Map<Work>(dto), updatedEntity);
-				await _uow.SaveChangesAsync();
+				if(updatedEntity != null)
+				{
+					_uow.GetRepository<Work>().Update(_mapper.Map<Work>(dto), updatedEntity);
+					await _uow.SaveChangesAsync();
+					return new Response<WorkUpdateDto>(ResponseType.Success, dto);
+				}
+				return new Response<WorkUpdateDto>(ResponseType.NotFound, $"{dto.Id} değeri bulunamadı.");
+			} 
+			else
+			{
+				return new Response<WorkUpdateDto>(ResponseType.ValidationError, dto, result.ConvertToCustomValidationError());
 			}
 		}
 	}

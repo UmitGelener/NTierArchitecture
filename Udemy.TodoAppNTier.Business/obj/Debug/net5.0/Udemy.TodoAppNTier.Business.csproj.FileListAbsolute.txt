@@ -18,3 +18,5 @@ C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debu
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.pdb
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Business.dll
 C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\obj\Debug\net5.0\Udemy.TodoAppNTier.Business.sourcelink.json
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.ToDoAppNTier.Common.dll
+C:\Users\pc\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Business\bin\Debug\net5.0\Udemy.ToDoAppNTier.Common.pdb
